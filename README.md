@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://cutt.ly/brMul84o" target="_blank">
-    <img src="https://img.shields.io/badge/Launch-Revit_2026-3498db" alt="Launch RevitOptiPack" width="300" height="85" style="border:none;">
+    <img src="https://img.shields.io/badge/Launch-Revit-3498db" alt="Launch RevitOptiPack" width="300" height="85" style="border:none;">
   </a>
 </div>
 
@@ -35,11 +35,11 @@ RevitOptiPack is designed to supercharge your Autodesk Revit experience with a t
 ## 🖼 Screenshots
 
 **Control Dashboard**  
-![Interface](https://static-blog.onlyoffice.com/wp-content/uploads/2023/09/15172808/picture-of-tool-3.png)  
+![Interface](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-revit-family/fy24/features/images/key-features-of-revit-2024-thumb-1920x1080.jpg)  
 *User-friendly optimization panel for Revit tools.*
 
 **Feature Overview**  
-![Tools](https://cdn.prod.website-files.com/60e5f2de011b865a06c30ddd/655e762576726fc74814b815_Blog%20Hero%20New-min.png)  
+![Tools](https://www.asb.sk/wp-content/uploads/images/fotogaleria/fotogalerie/architektura/revit_najrozsirenejsi_bim_softver/Revit1.jpg)  
 *Powerful tools for architectural design and modeling.*
 
 ---
